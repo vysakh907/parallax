@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+.c{
+    background-size: cover;
+    background-attachment: fixed;
+    height: 800px;
+    background-repeat: no-repeat;
+}
+.c1{
+   background-image: url("https://www.andacademy.com/resources/wp-content/uploads/2023/12/image23.jpg"); 
+   width: 100%;
+  }
+h1{
+    color: rgb(206, 169, 121);
+    text-align: center;
+    font-family: 'Style Script', cursive;
+    font-size: 110px;
+}
+.c2{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/026/636/873/non_2x/adobe-coffee-house-menu-restaurant-cafe-menu-template-design-food-flyer-vector.jpg");
+    width: 100%;
+}
+h2{
+    text-align: center;
+    color:rgb(161, 76, 15);
+    font-size: 50px;
+}
+.p1{
+    text-align: center;
+    color:   rgb(118, 53, 6);
+    font-size: 40px;
+}
+.c3{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/023/010/450/non_2x/the-cup-of-latte-coffee-with-heart-shaped-latte-art-and-ai-generated-free-photo.jpg");
+    width: 100%;
+}
+h3{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(114, 83, 6);
+}
+.p2{
+    color: rgb(96, 71, 7);
+    font-size: 30px;
+    padding: 30px;
+    text-align: center;
+    text-align: justify;
+}
+.c4{
+    background-image: url("https://foodinsight.org/wp-content/uploads/2019/07/eat-healthy-no-dieting.png");
+    width: 100%;
+}
+.c5{
+    background-image: url("https://media.licdn.com/dms/image/v2/D4D12AQEe1IuBL-nTYw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1701274610708?e=2147483647&v=beta&t=sS4K6XrVUfFwuBK9tdoJFLKqJXN83Fw9AdYEED8R5VI");
+    width: 100%;
+}
+.c6{
+    background-image: url("https://images.lifestyleasia.com/wp-content/uploads/sites/3/2021/10/08125938/sam-moqadam-yxZSAjyToP4-unsplash-scaled.jpg");
+    width: 100%;
+}
+h4{
+    text-align: center;
+    color: rgba(131, 65, 17, 0.795);
+    font-family: 'Style Script', cursive;
+    font-size: 100px;
+    
+}
